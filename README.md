@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://github.com/Magivsky/rsschool-cv.git
+## https://Magivsky.github.io/rsschool-cv/cv
